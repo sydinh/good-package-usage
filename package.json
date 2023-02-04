@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/sydinh/good-package-usage/issues"
   },
-  "homepage": "https://github.com/sydinh/good-package-usage#readme"
+  "homepage": "https://github.com/sydinh/good-package-usage#readme",
+  "dependencies": {
+    "good-package": "^1.0.0"
+  },
+  "type": "module"
 }
