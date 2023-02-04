@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/sydinh/good-package-usage.git"
   },
-  "keywords": [],
+  "keywords": [
+    "demo",
+    "package",
+    "usage"
+  ],
   "author": "Sy Dinh <dinhhiepsy@gmail.com> (https://sydinh.js.org/)",
   "license": "ISC",
   "bugs": {
